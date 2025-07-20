@@ -1,0 +1,88 @@
+{
+  "id": "cape-d-aguilar",
+  "name": "Cape D'Aguilar Lighthouse",
+  "chineseName": "鶴咀燈塔",
+  "location": {
+    "latitude": 22.2094,
+    "longitude": 114.2547,
+    "address": "Cape D'Aguilar, Shek O, Hong Kong Island"
+  },
+  "heritage": {
+    "status": "declared_monument",
+    "year": 2006,
+    "description": "Declared monument under the Antiquities and Monuments Ordinance"
+  },
+  "history": {
+    "built": 1875,
+    "architect": "David M. Henderson",
+    "purpose": "To guide ships through the eastern approaches to Hong Kong harbour",
+    "timeline": [
+      {
+        "year": 1875,
+        "event": "Construction completed",
+        "description": "First lighthouse built in Hong Kong waters"
+      },
+      {
+        "year": 1896,
+        "event": "Light upgraded",
+        "description": "Original oil light replaced with more powerful system"
+      },
+      {
+        "year": 1975,
+        "event": "Automation",
+        "description": "Lighthouse converted to automatic operation"
+      },
+      {
+        "year": 2006,
+        "event": "Heritage designation",
+        "description": "Declared as a monument for historical preservation"
+      }
+    ]
+  },
+  "technical": {
+    "height": 17,
+    "range": 18,
+    "lightCharacteristic": "Fl W 10s",
+    "currentStatus": "automated"
+  },
+  "media": {
+    "heroImage": "/images/lighthouses/cape-d-aguilar/hero.jpg",
+    "gallery": [
+      {
+        "url": "/images/lighthouses/cape-d-aguilar/exterior.jpg",
+        "alt": "Cape D'Aguilar Lighthouse exterior view",
+        "caption": "The lighthouse stands prominently on the rocky coastline"
+      },
+      {
+        "url": "/images/lighthouses/cape-d-aguilar/lantern-room.jpg",
+        "alt": "Lantern room interior",
+        "caption": "The restored lantern room with original Fresnel lens"
+      },
+      {
+        "url": "/images/lighthouses/cape-d-aguilar/coastal-view.jpg",
+        "alt": "Coastal view from lighthouse",
+        "caption": "Panoramic view of the South China Sea from the lighthouse"
+      }
+    ],
+    "historicalImages": [
+      {
+        "url": "/images/lighthouses/cape-d-aguilar/historical-1875.jpg",
+        "alt": "Cape D'Aguilar Lighthouse in 1875",
+        "caption": "The lighthouse shortly after construction in 1875",
+        "isHistorical": true
+      },
+      {
+        "url": "/images/lighthouses/cape-d-aguilar/historical-1950s.jpg",
+        "alt": "Lighthouse keepers in the 1950s",
+        "caption": "Lighthouse keepers maintaining the light in the 1950s",
+        "isHistorical": true
+      }
+    ]
+  },
+  "content": {
+    "description": "Cape D'Aguilar Lighthouse, built in 1875, holds the distinction of being Hong Kong's first lighthouse. Located on the southeastern tip of Hong Kong Island, this white cylindrical tower has guided countless vessels through the treacherous waters of the South China Sea for nearly 150 years.",
+    "significance": "As Hong Kong's oldest lighthouse, Cape D'Aguilar represents the beginning of the territory's systematic approach to maritime safety. Its construction marked Hong Kong's emergence as a major shipping hub in the region. The lighthouse's architectural design reflects Victorian engineering principles adapted for tropical conditions.",
+    "currentCondition": "The lighthouse remains in excellent condition following restoration work completed in 2005. While now automated, the structure retains its original architectural integrity. The lantern room houses a modern LED light system while preserving the historic Fresnel lens for display purposes.",
+    "visitingInfo": "The lighthouse is accessible via a hiking trail from Shek O. Visitors should note that the interior is not open to the public, but the exterior and surrounding area can be explored. Best visited during daylight hours with proper hiking equipment."
+  }
+}

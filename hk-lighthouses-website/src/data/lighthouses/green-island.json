@@ -1,0 +1,76 @@
+{
+    "id": "green-island",
+    "name": "Green Island Lighthouse",
+    "chineseName": "青洲燈塔",
+    "location": {
+        "latitude": 22.2847,
+        "longitude": 114.1275,
+        "address": "Green Island, Hong Kong"
+    },
+    "heritage": {
+        "status": "grade_3_historic",
+        "year": 2009,
+        "description": "Graded as Grade 3 historic building for its architectural and historical value"
+    },
+    "history": {
+        "built": 1875,
+        "purpose": "To mark the western entrance to Victoria Harbour",
+        "timeline": [
+            {
+                "year": 1875,
+                "event": "Construction completed",
+                "description": "Built simultaneously with Cape D'Aguilar Lighthouse"
+            },
+            {
+                "year": 1904,
+                "event": "Light enhancement",
+                "description": "Upgraded with more powerful illumination system"
+            },
+            {
+                "year": 1980,
+                "event": "Automation",
+                "description": "Converted to automatic operation, lighthouse keepers withdrawn"
+            },
+            {
+                "year": 2009,
+                "event": "Heritage grading",
+                "description": "Recognized as Grade 3 historic building"
+            }
+        ]
+    },
+    "technical": {
+        "height": 10,
+        "range": 12,
+        "lightCharacteristic": "Fl R 3s",
+        "currentStatus": "automated"
+    },
+    "media": {
+        "heroImage": "/images/lighthouses/green-island/hero.jpg",
+        "gallery": [
+            {
+                "url": "/images/lighthouses/green-island/full-view.jpg",
+                "alt": "Green Island Lighthouse full view",
+                "caption": "The compact lighthouse on Green Island"
+            },
+            {
+                "url": "/images/lighthouses/green-island/harbour-view.jpg",
+                "alt": "View towards Victoria Harbour",
+                "caption": "Strategic position overlooking Victoria Harbour entrance"
+            }
+        ],
+        "historicalImages": [
+            {
+                "url": "/images/lighthouses/green-island/historical-1920s.jpg",
+                "alt": "Green Island Lighthouse in the 1920s",
+                "caption": "The lighthouse during the colonial period",
+                "isHistorical": true
+            }
+        ]
+    },
+    "content": {
+        "description": "Green Island Lighthouse, constructed in 1875, serves as the western sentinel to Victoria Harbour. This compact white tower, though smaller than its eastern counterpart at Cape D'Aguilar, plays an equally crucial role in Hong Kong's maritime navigation system.",
+        "significance": "The lighthouse represents Hong Kong's early commitment to maritime safety and its strategic importance as a trading port. Its position at the western entrance to Victoria Harbour made it essential for the safe passage of vessels entering Hong Kong's primary anchorage.",
+        "currentCondition": "The lighthouse remains operational and well-maintained. Recent upgrades have modernized the lighting system while preserving the historic structure. The building shows typical signs of weathering from its marine environment but structural integrity remains sound.",
+        "visitingInfo": "Green Island is accessible by private boat only. The lighthouse is not open for public tours, and visitors should respect the operational nature of the facility. The island offers excellent views of Victoria Harbour and the Hong Kong skyline."
+    }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "waglan-island",
+  "name": "Waglan Island Lighthouse",
+  "chineseName": "橫瀾島燈塔",
+  "location": {
+    "latitude": 22.1825,
+    "longitude": 114.3033,
+    "address": "Waglan Island, Hong Kong"
+  },
+  "heritage": {
+    "status": "none",
+    "description": "Not currently designated as heritage building"
+  },
+  "history": {
+    "built": 1893,
+    "purpose": "To guide vessels approaching Hong Kong from the southeast",
+    "timeline": [
+      {
+        "year": 1893,
+        "event": "Construction completed",
+        "description": "Built to improve navigation safety in the southeastern approaches"
+      },
+      {
+        "year": 1920,
+        "event": "Signal station added",
+        "description": "Weather monitoring and signal station established"
+      },
+      {
+        "year": 1985,
+        "event": "Modernization",
+        "description": "Lighthouse automated and modernized with new equipment"
+      }
+    ]
+  },
+  "technical": {
+    "height": 21,
+    "range": 23,
+    "lightCharacteristic": "Fl(2) W 15s",
+    "currentStatus": "automated"
+  },
+  "media": {
+    "heroImage": "/images/lighthouses/waglan-island/hero.jpg",
+    "gallery": [
+      {
+        "url": "/images/lighthouses/waglan-island/tower.jpg",
+        "alt": "Waglan Island Lighthouse tower",
+        "caption": "The tall white tower dominates the small island"
+      },
+      {
+        "url": "/images/lighthouses/waglan-island/weather-station.jpg",
+        "alt": "Weather monitoring equipment",
+        "caption": "Modern weather monitoring station adjacent to the lighthouse"
+      }
+    ]
+  },
+  "content": {
+    "description": "Waglan Island Lighthouse, completed in 1893, stands as one of Hong Kong's most important navigational aids. Located on a small rocky island southeast of Hong Kong Island, this lighthouse serves vessels approaching from the South China Sea.",
+    "significance": "The lighthouse plays a vital role in Hong Kong's maritime safety network, particularly for vessels approaching from international waters. Its weather station provides crucial meteorological data for the region's shipping and aviation industries.",
+    "currentCondition": "The lighthouse is in excellent operational condition with modern LED lighting and automated systems. The weather station continues to provide valuable meteorological services. Regular maintenance ensures reliable operation in the challenging marine environment.",
+    "visitingInfo": "Waglan Island is not accessible to the general public due to its operational nature and challenging sea conditions. The lighthouse can be viewed from passing vessels or from elevated positions on Hong Kong Island's southeastern coast."
+  }
+}

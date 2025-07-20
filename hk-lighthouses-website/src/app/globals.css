@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply text-lighthouse-800 bg-lighthouse-50;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-ocean-600 hover:bg-ocean-700 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-lighthouse-200 hover:bg-lighthouse-300 text-lighthouse-800 font-medium py-2 px-4 rounded-lg transition-colors duration-200;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-md border border-lighthouse-200 p-6;
+  }
+  
+  .heritage-badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+  
+  .heritage-monument {
+    @apply heritage-badge bg-heritage-monument/10 text-heritage-monument;
+  }
+  
+  .heritage-grade3 {
+    @apply heritage-badge bg-heritage-grade3/10 text-heritage-grade3;
+  }
+  
+  .status-active {
+    @apply heritage-badge bg-heritage-active/10 text-heritage-active;
+  }
+  
+  .status-inactive {
+    @apply heritage-badge bg-heritage-inactive/10 text-heritage-inactive;
+  }
+}

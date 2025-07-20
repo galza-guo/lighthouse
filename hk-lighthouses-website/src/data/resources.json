@@ -1,0 +1,69 @@
+[
+  {
+    "id": "hk-marine-dept-lighthouses",
+    "title": "Hong Kong Marine Department - Lighthouse Information",
+    "category": "government",
+    "url": "https://www.mardep.gov.hk/en/aids_to_navigation/lighthouse.html",
+    "description": "Official government information about Hong Kong's lighthouse network, including technical specifications and operational status.",
+    "language": "both",
+    "status": "active",
+    "relatedLighthouses": ["cape-d-aguilar", "green-island", "waglan-island"]
+  },
+  {
+    "id": "antiquities-monuments-board",
+    "title": "Antiquities and Monuments Office - Cape D'Aguilar Lighthouse",
+    "category": "government",
+    "url": "https://www.amo.gov.hk/en/monuments_114.html",
+    "description": "Official heritage designation documentation for Cape D'Aguilar Lighthouse as a declared monument.",
+    "language": "both",
+    "status": "active",
+    "relatedLighthouses": ["cape-d-aguilar"]
+  },
+  {
+    "id": "hk-lighthouses-history-book",
+    "title": "Lighthouses of Hong Kong: Guardians of the Pearl River",
+    "category": "book",
+    "url": "https://example.com/hk-lighthouses-book",
+    "description": "Comprehensive historical account of Hong Kong's lighthouse development from 1875 to present day.",
+    "author": "Dr. Maritime Heritage",
+    "publishDate": "2018",
+    "language": "en",
+    "status": "active",
+    "relatedLighthouses": ["cape-d-aguilar", "green-island", "waglan-island"]
+  },
+  {
+    "id": "colonial-architecture-study",
+    "title": "Colonial Architecture and Maritime Infrastructure in Hong Kong",
+    "category": "academic",
+    "url": "https://example.com/colonial-architecture-study",
+    "description": "Academic paper examining the architectural significance of Hong Kong's colonial-era maritime infrastructure including lighthouses.",
+    "author": "Prof. Architecture History",
+    "publishDate": "2020",
+    "language": "en",
+    "status": "active",
+    "relatedLighthouses": ["cape-d-aguilar", "green-island"]
+  },
+  {
+    "id": "lighthouse-documentary",
+    "title": "Beacons of the Pearl River: Hong Kong's Lighthouse Heritage",
+    "category": "video",
+    "url": "https://example.com/lighthouse-documentary",
+    "description": "Documentary film exploring the history and significance of Hong Kong's lighthouse network.",
+    "publishDate": "2019",
+    "language": "both",
+    "status": "active",
+    "relatedLighthouses": ["cape-d-aguilar", "green-island", "waglan-island"]
+  },
+  {
+    "id": "maritime-safety-evolution",
+    "title": "Evolution of Maritime Safety Systems in Hong Kong Waters",
+    "category": "academic",
+    "url": "https://example.com/maritime-safety-evolution",
+    "description": "Research paper tracing the development of maritime safety infrastructure in Hong Kong from the 19th century to modern times.",
+    "author": "Dr. Maritime Studies",
+    "publishDate": "2021",
+    "language": "en",
+    "status": "active",
+    "relatedLighthouses": ["cape-d-aguilar", "green-island", "waglan-island"]
+  }
+]
